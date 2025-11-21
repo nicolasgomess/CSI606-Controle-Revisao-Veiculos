@@ -38,7 +38,7 @@ Serão elaborados protótipos das seguintes páginas:
 * **Consulta de Histórico:** listagem das revisões realizadas e futuras.
 
 Protótipos foram criados no **Figma** e podem ser acessados pelo link:
-**[Protótipo no Figma]https://www.figma.com/make/5ikopapqRsYrhbGBLqSrYj/Controle-de-Revis%C3%A3o-de-Ve%C3%ADculos?node-id=0-1&t=Hjzszqqp3AlvYk0m-1**
+**https://www.figma.com/make/5ikopapqRsYrhbGBLqSrYj/Controle-de-Revis%C3%A3o-de-Ve%C3%ADculos?node-id=0-1&t=Hjzszqqp3AlvYk0m-1**
 
 ---
 
