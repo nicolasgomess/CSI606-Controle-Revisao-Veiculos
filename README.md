@@ -1,4 +1,4 @@
-# CSI606-2025-01 - Remoto - Proposta de Trabalho Final
+# CSI606-2025-01 - Proposta de Trabalho Final
 **Discente:** Nicolas de Oliveira Gomes
 
 ---
