@@ -1,10 +1,9 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-// Importações da biblioteca de gráficos que acabamos de instalar
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 
 function Dashboard() {
-  // Adicionamos totalRevenue e chartData no estado inicial
+  
   const [stats, setStats] = useState({ totalVehicles: 0, totalMaintenances: 0, totalRevenue: 0, chartData: [] });
 
   useEffect(() => {
@@ -18,7 +17,7 @@ function Dashboard() {
     return (value || 0).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
   };
 
-  // Cores bonitas para as barras do gráfico
+  
   const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#64748b'];
 
   return (
