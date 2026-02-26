@@ -23,7 +23,7 @@ db.serialize(() => {
         mileage INTEGER
     )`);
 
-    // NOVA TABELA DE REVISÕES: Agora com a coluna "cost" (custo em número real)
+    // TABELA DE REVISÕES: 
     db.run(`CREATE TABLE IF NOT EXISTS maintenances (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         vehicle_id INTEGER,
