@@ -18,7 +18,7 @@ body {
   min-height: 100vh;
 }
 
-/* --- O TRUQUE DA IMAGEM DE FUNDO --- */
+
 /* Cria uma camada virtual atrás de todo o conteúdo do site */
 body::before {
   content: '';
@@ -34,7 +34,7 @@ body::before {
   background-size: cover; /* Cobre a tela toda sem distorcer */
   background-position: center;
 
-  /* --- FILTROS MÁGICOS PARA LEGIBILIDADE --- */
+  
   /* brightness(0.3): Escurece a imagem para o texto branco/cards se destacarem */
   /* blur(4px): Borra levemente para não tirar a atenção */
   filter: brightness(0.3) blur(4px);
