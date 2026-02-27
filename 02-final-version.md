@@ -53,4 +53,4 @@ O projeto "PitStop" é um sistema web desenvolvido para facilitar a gestão e o 
 * React Documentation. Disponível em: https://react.dev
 * Recharts - A composable charting library built on React components. Disponível em: https://recharts.org
 * Express Node.js web application framework. Disponível em: https://expressjs.com
-* SQLite Documentation. Disponível em:
+* SQLite Documentation. Disponível em: https://sqlite.org/docs.html
